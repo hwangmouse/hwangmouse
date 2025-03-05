@@ -1,7 +1,7 @@
 ## 😴😴😴
 Studying at Gachon Uni.
 
-![Hwangmouse's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangmouse&theme=dark&show_icons=true&theme=radical)
+![Hwangmouse's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangmouse&theme=dark&show_icons=true)
 <!--
 **hwangmouse/hwangmouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
