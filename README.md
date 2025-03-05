@@ -1,5 +1,5 @@
 ## 😴😴😴
-Studying at Gachon Uni.
+Studying at Gachon Uni.💻
 
 ![Hwangmouse's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangmouse&theme=dark&show_icons=true)
 <!--
